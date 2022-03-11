@@ -25,8 +25,6 @@ function criaCalculadora() {
                 if (el.classList.contains('btn-equal')) {
                     this.realizaConta()
                 }
-
-                this.display.focus()
             })
         },
 
